@@ -1,0 +1,59 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+/.vs/cxk-trojan/v15/Browse.VC.db
+/.vs/cxk-trojan/v15/Browse.VC.opendb
+/.vs/cxk-trojan/v15/ipch/AutoPCH/23c950dee55817b8/PAYLOAD_BARRAGES.ipch
+/.vs/cxk-trojan/v15/ipch/AutoPCH/29012c080af5d74f/PAYLOADS.ipch
+/.vs/cxk-trojan/v15/ipch/AutoPCH/11e2ce60195c1e8d/ENTRY.ipch
+/cxk-trojan/Debug/vc141.pdb
+/cxk-trojan/Debug/vc141.idb
+/cxk-trojan/Debug/cxk-trojan.tlog/link.write.1.tlog
+/cxk-trojan/Debug/cxk-trojan.log
+/cxk-trojan/Debug/cxk-trojan.tlog/link.read.1.tlog
+/cxk-trojan/Debug/cxk-trojan.tlog/link.command.1.tlog
+/cxk-trojan/Debug/cxk-trojan.tlog/cxk-trojan.lastbuildstate
+/cxk-trojan/Debug/cxk-trojan.tlog/CL.write.1.tlog
+/cxk-trojan/Debug/cxk-trojan.tlog/CL.read.1.tlog
+/cxk-trojan/Debug/cxk-trojan.tlog/CL.command.1.tlog
+/cxk-trojan/x64/Debug/vc141.pdb
+/cxk-trojan/x64/Debug/vc141.idb
+/cxk-trojan/x64/Debug/cxk-trojan.tlog/unsuccessfulbuild
+/cxk-trojan/x64/Debug/cxk-trojan.tlog/cxk-trojan.lastbuildstate
+/cxk-trojan/x64/Debug/cxk-trojan.tlog/CL.write.1.tlog
+/cxk-trojan/x64/Debug/cxk-trojan.tlog/CL.read.1.tlog
+/cxk-trojan/x64/Debug/cxk-trojan.tlog/CL.command.1.tlog
+/cxk-trojan/x64/Debug/cxk-trojan.log
+/.vs/cxk-trojan/v15/ipch/AutoPCH/e60a8c23cce98336/ENTRY.ipch
+/.vs/cxk-trojan/v15
+/Debug
+/cxk-trojan/Debug
