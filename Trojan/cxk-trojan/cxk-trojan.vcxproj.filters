@@ -46,8 +46,4 @@
   <ItemGroup>
     <ResourceCompile Include="cxk-trojan.rc" />
   </ItemGroup>
-  <ItemGroup>
-    <None Include="..\README.md" />
-    <None Include="..\README_CN.md" />
-  </ItemGroup>
 </Project>
