@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="codes">
+      <UniqueIdentifier>{2d811117-b769-4b7f-9276-ae3f41e7bd12}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="codes\main">
+      <UniqueIdentifier>{31a4e16c-3132-4124-9f4b-9f7c3bde99c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="codes\payloads">
+      <UniqueIdentifier>{e6ce26ab-98bd-4804-8624-57fdb1ca2598}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="codes\watchdog">
+      <UniqueIdentifier>{8fcd7b4d-2dd2-4005-8469-d9e977a34eb3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="entry.cpp">
+      <Filter>codes\main</Filter>
+    </ClCompile>
+    <ClCompile Include="payloads.cpp">
+      <Filter>codes\payloads</Filter>
+    </ClCompile>
+    <ClCompile Include="payload_barrages.cpp">
+      <Filter>codes\payloads</Filter>
+    </ClCompile>
+    <ClCompile Include="watchdog.cpp">
+      <Filter>codes\watchdog</Filter>
+    </ClCompile>
+    <ClCompile Include="payload_randomicon.cpp">
+      <Filter>codes\payloads</Filter>
+    </ClCompile>
+    <ClCompile Include="Ion_Artillery.cpp">
+      <Filter>codes\watchdog</Filter>
+    </ClCompile>
+    <ClCompile Include="payload_messageboxes.cpp">
+      <Filter>codes\payloads</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="payloads.h">
+      <Filter>codes\payloads</Filter>
+    </ClInclude>
+    <ClInclude Include="watchdog.h">
+      <Filter>codes\watchdog</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="cxk-trojan.rc" />
+  </ItemGroup>
+</Project>
