@@ -1,0 +1,5 @@
+*.bin
+*.img
+MBR/.vs
+MBR/Builds
+Trojan/.vs
